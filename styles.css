@@ -659,7 +659,7 @@ body {
         font-size: 0.9rem;
     }
     
-    /* Responsive */
+    /* Para que sea responsive la ak*/
     @media screen and (max-width: 768px) {
         .nav-links {
             display: none;
@@ -692,7 +692,6 @@ body {
         }
     }
 
-/* Añade esto al final de tu archivo CSS */
 
 /* Carrusel en el Footer */
 .footer-carousel {
